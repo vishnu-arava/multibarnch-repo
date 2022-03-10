@@ -1,4 +1,4 @@
-node('buit-in') 
+node('master') 
 {
     stage('Continuous Download') 
 	{
