@@ -1,4 +1,4 @@
-node('master') 
+node('buit-in') 
 {
     stage('Continuous Download_newbranch') 
 	{
